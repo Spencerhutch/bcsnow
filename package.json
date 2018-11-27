@@ -3,6 +3,10 @@
   "version": "0.0.1",
   "description": "API for BC Ski areas",
   "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "nodemon": "nodemon src/index.js"
+  },
   "repository": "https://github.com/Spencerhutch/bcsnow.git",
   "author": "Spencer Hutchinson <spencerhutch@gmail.com>",
   "license": "MIT",
