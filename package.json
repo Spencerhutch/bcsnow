@@ -1,0 +1,16 @@
+{
+  "name": "bc_snow",
+  "version": "0.0.1",
+  "description": "API for BC Ski areas",
+  "main": "src/index.js",
+  "repository": "https://github.com/Spencerhutch/bcsnow.git",
+  "author": "Spencer Hutchinson <spencerhutch@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.4",
+    "scrape-it": "^5.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.6"
+  }
+}
